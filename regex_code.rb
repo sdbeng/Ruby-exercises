@@ -1,2 +1,3 @@
 #basic code
-puts "Hello regex"
+puts "Good morning, regex!"
+puts "Sup!"
